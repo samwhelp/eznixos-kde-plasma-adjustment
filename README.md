@@ -10,8 +10,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [EznixOS Kde Plasma Adjustment](https://samwhelp.github.io/eznixos-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-kde-plasma-adjustment) |
-| [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
 | [EznixOS Kde Plasma Note](https://samwhelp.github.io/note-about-eznixos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-kde-plasma) |
+| [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
 
 
 
